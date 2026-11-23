@@ -1,3 +1,10 @@
+This is Team directory app(practice assignment), and the tech stack (React, Vite, React Router, Bootstrap 5).
+How to run it: npm install, then npm run dev.
+Test credentials: emilys / emilyspass.
+A features list that mirrors the assignment's topics.
+A note that DummyJSON doesn't persist adds and deletes, so changes reset on refresh.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
